@@ -17,7 +17,7 @@ public enum DeveloperBossTexture {
     C6H2Cl2,
     kojin15,
     sora_suke,
-    
+    Gaku_Minecraft,
     ;
     
     /**
